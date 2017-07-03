@@ -14,7 +14,7 @@ Steps to connect via network mode: (I used Linux based PC)
   
 4.Disconnect your tablet or smartphone from pc.
 
-5.Open command prompt type: adb connect IPADDRESS (IPADDRESS is the DHCP/IP address of your tablet or smartphone, which you can find by Wi-Fi -> current connected network)
+5.Open Terminal type: adb connect IPADDRESS (IPADDRESS is the DHCP/IP address of your tablet or smartphone, which you can find by Wi-Fi -> current connected network or Wi-Fi -> Advanced settings -> Ip address )
 
 
 Length of password is 4 digit in Asus Zenfone 4 A450CG.
